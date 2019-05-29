@@ -1,9 +1,8 @@
 ##
-Project name: Moltres
+# Moltres
 ##
 
-This project is about building a crypto currency order publishing and 
-monitoring platform with nice dashboard and such.
+Moltres is a crypto currency trading platform that is mainly targeted at spreading orders on multiple exchanges and getting an overall view of the portfolio across different exchanges.
 
 Features:
 - Allow the user to connect to multiple exchanges: Coinbase, Kraken and later on: Binance and Digifinex
@@ -12,14 +11,14 @@ Features:
     - Open orders on each exchanges
     - Closed orders on each exchanges
     - Cancelled orders on each exchanges
-    - Prices on each exchanges - update 1-2 minutes
+    - Prices on each exchanges - Update 1-2 minutes
     - Place market orders
     - Place limit orders
     - Place good till cancel, good till expiration orders
     - Easy deposit and withdrawal between wallet and exchange
     - Google Authenticator to Login
     - SMS, Web and Email based notifications on:
-        - Order execution
-        - Auto order cancellation
-        - Price movements (% or otherwise)
-        - Volume movements
+     - Order execution
+     - Auto order cancellation
+     - Price movements (% or otherwise)
+     - Volume movements
