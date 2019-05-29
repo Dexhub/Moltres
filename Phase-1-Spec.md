@@ -39,3 +39,7 @@ Modules:
 Exchanges to support:
  - Coinbase Pro
  - kraken
+ 
+ ![GitHub Logo](/images/sample.jpg)
+
+ 
