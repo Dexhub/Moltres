@@ -1,5 +1,5 @@
 ##
-Project name: Moltres - Phase 1
+# Moltres - Phase 1
 ##
 This project is about building a crypto currency order publishing and 
 monitoring platform with nice dashboard and such.
@@ -36,3 +36,6 @@ Modules:
         - Volume movements
     - Open closed orders placed by the user.
 
+Exchanges to support:
+ - Coinbase Pro
+ - kraken
