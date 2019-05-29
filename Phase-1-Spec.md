@@ -40,6 +40,6 @@ Exchanges to support:
  - Coinbase Pro
  - kraken
  
- ![GitHub Logo](/images/sample.jpg)
+ ![Sample portal](/images/sample.png)
 
  
