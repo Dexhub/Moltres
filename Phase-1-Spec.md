@@ -10,10 +10,10 @@ Authentication handled via Google Authenticator
 Deploy on Heroku
 
 Goals: 
-    - To be able to automatically trigger trades based on price movements.
-    - Be able to monitor the fund’s overall performance
-    - Be able to fan out orders across multiple exchanges
-    - Be able to easily move funds between exchange and cold wallets.
+- To be able to automatically trigger trades based on price movements.
+- Be able to monitor the fund’s overall performance
+- Be able to fan out orders across multiple exchanges
+- Be able to easily move funds between exchange and cold wallets.
     
 Project details:
 ---------------
