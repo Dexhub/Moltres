@@ -4,6 +4,12 @@
 
 Moltres is a crypto currency trading platform that is mainly targeted at spreading orders on multiple exchanges and getting an overall view of the portfolio across different exchanges.
 
+Goals: 
+    - To be able to automatically trigger trades based on price movements.
+    - Be able to monitor the fund’s overall performance
+    - Be able to fan out orders across multiple exchanges
+    - Be able to easily move funds between exchange and cold wallets.
+
 Features:
 - Allow the user to connect to multiple exchanges: Coinbase, Kraken and later on: Binance and Digifinex
 - The dashboard will pull and show the following information to the user:
